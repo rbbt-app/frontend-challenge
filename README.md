@@ -45,6 +45,8 @@ https://developers.themoviedb.org/3/movies/get-movie-credits
 In your assigment, you are required to use:
 - React / Vue
 - Redux / Vuex
+
+Nice to use:
 - Typescript <b>(for bonus points)</b>
 
 ## Review
